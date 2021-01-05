@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="html" type="FTL" />
+      <mapping ext="htm" type="FTL" />
+      <removed_mapping ext="htm" approved="true" type="HTML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping pattern=".netbeans_automatic_build" type="PLAIN_TEXT" />
+      <mapping pattern=".netbeans_update_resources" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".html" approved="true" type="FTL" />
+      <removed_mapping ext="htm" approved="true" type="HTML" />
+      <removed_mapping pattern=".htm" approved="true" type="FTL" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+    </extensionMap>
+  </component>
+</application>
